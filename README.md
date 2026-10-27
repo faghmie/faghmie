@@ -1,4 +1,3 @@
-# Faghmie Davids
 ### Delivery Lead & Enterprise Systems Architect
 
 > Bridging the gap between architectural rigor, cloud engineering, and commercial strategy. Focused on building high-performing, autonomous delivery practices and robust technical systems.
